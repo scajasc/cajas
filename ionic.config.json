@@ -1,0 +1,7 @@
+{
+  "name": "cajas",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
